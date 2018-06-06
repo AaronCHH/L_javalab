@@ -1,1 +1,3 @@
-# L_javalab
+# Java Lab
+
+Place for experimenting java.
